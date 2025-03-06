@@ -18,7 +18,7 @@ namespace lab0
             int zakres = int.Parse(Console.ReadLine());
 
             FizzBuzz fizzbuzz = new FizzBuzz(zakres);
-            fizzbuzz.Wyswietlanie();
+            fizzbuzz.Wyswietlanie1();
         }
     }
 }

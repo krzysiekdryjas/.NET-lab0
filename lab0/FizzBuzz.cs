@@ -15,7 +15,7 @@ namespace lab0
             this.zakres = zakres;
         }
 
-        public void Wyswietlanie()
+        public void Wyswietlanie1()
         {
             for (int i = 1; i <= zakres; i++)
             {
